@@ -40,4 +40,9 @@ Las siguientes mejoras pueden hacer que el proyecto sea más robusto, eficiente 
 - Implementar más vistas SQL para facilitar la reutilización de consultas comunes.
 - Automatizar la ejecución de las consultas con scripts en Python o Power BI para visualizar los datos gráficamente.
 
-📧 Contacto
+:woman_technologist:**Autores y Agradecimientos**
+
+ - Elizabeth Montero Domínguez: Análisis y desarrollo del proyecto.
+ - Inspiración: Base de datos de Popcorn & Films y soporte de herramientas.
+
+
