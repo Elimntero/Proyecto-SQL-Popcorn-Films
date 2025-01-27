@@ -43,6 +43,6 @@ Las siguientes mejoras pueden hacer que el proyecto sea más robusto, eficiente 
 :woman_technologist:**Autores y Agradecimientos**
 
  - Elizabeth Montero Domínguez: Análisis y desarrollo del proyecto.
- - Inspiración: Base de datos de Popcorn & Films [Duck Duck Go](https://raw.githubusercontent.com/Elimntero/Proyecto-SQL-Popcorn-Films/refs/heads/main/BBDD%20Popcorn%20%26%20Films.sql?token=GHSAT0AAAAAAC5DDGZL3XL5XZT6PLNBPQOMZ4X36DA) y soporte de herramientas.
+ - Inspiración: [Base de datos de Popcorn & Films](https://raw.githubusercontent.com/Elimntero/Proyecto-SQL-Popcorn-Films/refs/heads/main/BBDD%20Popcorn%20%26%20Films.sql?token=GHSAT0AAAAAAC5DDGZL3XL5XZT6PLNBPQOMZ4X36DA) y soporte de herramientas.
 
 
