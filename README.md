@@ -1,3 +1,4 @@
+![Encabezado Popcorn & Films](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/Im%C3%A1genes/Encabezado%20Popcorn%20%26%20Films.png)
 # :popcorn:**Popcorn & Films**:clapper:
 
 :page_with_curl:**Descripción**
@@ -29,6 +30,8 @@ Para ejecutar estas consultas, se necesita:
    - Crear un nuevo script.
    - Escribir los enunciados de las consultas.
    - Resolver las consultas en función de la información del esquema entidad-relación de la base de datos.
+   ![Ejemplo Consulta SQL](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/Im%C3%A1genes/Ejemplo%20de%20consulta%20resuelta.png)
+     
 5.Ejecutar el script línea por línea.
 
 :bar_chart:**Posibles Mejoras y Extensiones**
