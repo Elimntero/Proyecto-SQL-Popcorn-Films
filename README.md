@@ -7,11 +7,11 @@ Este proyecto consiste en una serie de consultas SQL diseñadas para extraer inf
 
 :label:**Organización**
 La organización de este proyecto consta de los siguientes documentos:
-- [Imágenes].(https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/tree/main/Im%C3%A1genes) Las cuales se han usado para el desarrollo del Readme del proyecto.
+- [Imágenes](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/tree/main/Im%C3%A1genes). Las cuales se han usado para el desarrollo del Readme del proyecto.
 - [BBDD Popcorn & Films](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/BBDD%20Popcorn%20%26%20Films.sql). Base de datos de una tienda ficticia, a la cual hemos llamado "Popcorn & Films".
 - [Esquema entidad relación Popcorn & Films](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/Esquema%20Entidad%20Relaci%C3%B3n%20Popcorn%20%26%20Films.png). Esquema de la base de datos en el cual se pueden visualizar las relaciones que tienen las distintas tablas.
 - [Script SQL Popcorn & Films](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/Popcorn%20%26%20Films%20Script.sql). Archivo SQL donde se pueden ver las 64 consultas del proyecto resueltas.
-- [Readme del proyecto](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/README.md). 
+- [Readme del proyecto](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/README.md). En él se puede leer toda la información clave del proyectol.
 
 :pushpin:**Instrucciones de Uso**
 
