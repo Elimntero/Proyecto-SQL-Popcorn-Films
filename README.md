@@ -6,6 +6,7 @@
 Este proyecto consiste en una serie de consultas SQL diseñadas para extraer información relevante de una base de datos de una tienda de películas llamada "Popcorn & Films". El objetivo es analizar y obtener datos sobre películas, actores y más clasificaciones de una forma eficiente.
 
 :label:**Organización**
+
 La organización de este proyecto consta de los siguientes documentos:
 - [Imágenes](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/tree/main/Im%C3%A1genes). Las cuales se han usado para el desarrollo del Readme del proyecto.
 - [BBDD Popcorn & Films](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/BBDD%20Popcorn%20%26%20Films.sql). Base de datos de una tienda ficticia, a la cual hemos llamado "Popcorn & Films".
