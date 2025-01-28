@@ -17,7 +17,9 @@ Este proyecto consiste en una serie de consultas SQL diseñadas para extraer inf
 :hammer_and_wrench:**Requisitos**
 
 Para ejecutar estas consultas, se necesita:
-- Un sistema de gestión de bases de datos compatible con SQL (PostgreSQL, MySQL, SQL Server, etc.).
+- Un sistema de gestión de bases de datos compatible con SQL (PostgreSQL, MySQL, SQL Server, etc.). En nuestro caso, usamos PostgreSQL con Dbeaver.
+  
+  ![Dbeaver y PostgreSQL](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/Im%C3%A1genes/Dbeaver%20%2B%20Postgresql.png)
 - Acceso a la base de datos que contenga la información necesaria para la realización de las consultas y esquema entidad-relación en SQL.
 
 :pushpin:**Instrucciones de Uso**
