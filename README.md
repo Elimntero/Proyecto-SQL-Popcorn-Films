@@ -14,28 +14,29 @@ Este proyecto consiste en una serie de consultas SQL diseñadas para extraer inf
 	5.	Actores cuyo apellido es “Allen”. Obtiene los nombres y apellidos de los actores que tienen “Allen” en su apellido.
 	6.	Cantidad total de películas por clasificación. Agrupa las películas por clasificación y muestra la cantidad total en cada categoría.
 
-:hammer_and_wrench:**Requisitos**
-
-Para ejecutar estas consultas, se necesita:
-- Un sistema de gestión de bases de datos compatible con SQL (PostgreSQL, MySQL, SQL Server, etc.). En nuestro caso, usamos PostgreSQL con Dbeaver.
-  
-  ![Dbeaver y PostgreSQL](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/Im%C3%A1genes/Dbeaver%20%2B%20Postgresql.png)
-- Acceso a la base de datos que contenga la información necesaria para la realización de las consultas.
-- Esquema entidad-relación en SQL.
-
 :pushpin:**Instrucciones de Uso**
 
 1. Preparar el entorno.
-   - Instalar un gestor de bases de datos, en este caso, PostgreSQL.
-   - Conectarse a la base de datos donde se encuentran las tablas necesarias, en este caso, "BBDD Popcorn & Films.sql".
+- Instalar un gestor de bases de datos.
+
+En este caso, instalo Dbeaver, donde tendremos que crear una conexión PostgreSQL (siendo esta una base de datos relacional de código abierto) para poder visualizar todas las tablas de nuestra base de datos.
+
+![Dbeaver y PostgreSQL](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/Im%C3%A1genes/Dbeaver%20%2B%20Postgresql.png)
+- Conectarse a la base de datos donde se encuentran las tablas necesarias, en este caso, "BBDD Popcorn & Films.sql".
+
+![Secuencia Dbeaver](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/Im%C3%A1genes/Secuencia%20Dbeaver.png)
+
 3. Crear el esquema entidad-relación de la base de datos.
-4. Ejecutar las consultas.
-   - Crear un nuevo script.
-   - Escribir los enunciados de las consultas.
-   - Resolver las consultas en función de la información del esquema entidad-relación de la base de datos.
+![Esquema entidad relación BBDD](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/Esquema%20Entidad%20Relaci%C3%B3n%20Popcorn%20%26%20Films.png)
+
+5. Ejecutar las consultas.
+- Crear un nuevo script y ejecutarlo línea por línea.
+
+![](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/Im%C3%A1genes/Nuevo%20Script%20SQL.png) 
+
+![](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/Im%C3%A1genes/Script%20SQL.png)
+- Escribir los enunciados de las consultas y resolverlas en función de la información del esquema entidad-relación de la base de datos.
    ![Ejemplo Consulta SQL](https://github.com/Elimntero/Proyecto-SQL-Popcorn-Films/blob/main/Im%C3%A1genes/Ejemplo%20de%20consulta%20resuelta.png)
-     
-5.Ejecutar el script línea por línea.
 
 :bar_chart:**Posibles Mejoras y Extensiones**
 
